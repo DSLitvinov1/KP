@@ -1,0 +1,15 @@
+C:\Users\Дима\Desktop\FINISH\bin\Debug\net8.0\FINISH.exe
+C:\Users\Дима\Desktop\FINISH\bin\Debug\net8.0\FINISH.deps.json
+C:\Users\Дима\Desktop\FINISH\bin\Debug\net8.0\FINISH.runtimeconfig.json
+C:\Users\Дима\Desktop\FINISH\bin\Debug\net8.0\FINISH.dll
+C:\Users\Дима\Desktop\FINISH\bin\Debug\net8.0\FINISH.pdb
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\FINISH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\FINISH.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\FINISH.AssemblyInfo.cs
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\FINISH.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\FINISH.sourcelink.json
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\FINISH.dll
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\refint\FINISH.dll
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\FINISH.pdb
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\FINISH.genruntimeconfig.cache
+C:\Users\Дима\Desktop\FINISH\obj\Debug\net8.0\ref\FINISH.dll
